@@ -1,0 +1,1 @@
+{"description":"Amber Forge — a from-scratch GitHub core clone (REST, git smart HTTP, GraphQL, MCP) with zero runtime dependencies.","engines":{"node":">=22.18"},"name":"amber-forge","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
